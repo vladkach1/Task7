@@ -10,7 +10,7 @@ namespace Task7
     {
         static void Main(string[] args)
         {
-            int n, a, b, c;
+            int n, a, b, cQWE;
             bool isFermatLastTheoremTrue = true;
 
             Console.WriteLine("Введите значение n в теореме a^n + b^n = c^n :");
