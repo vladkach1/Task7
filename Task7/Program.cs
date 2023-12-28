@@ -6,12 +6,20 @@ using System.Threading.Tasks;
 
 namespace Task7
 {
-    internal class Program
+
+    public class Program
     {
+        public static bool q(int n, int a, int b, int c)
+        {
+            if (n > 2 && Math.Pow(a, n) + Math.Pow(b, n) == Math.Pow(c, n))
+            {
+                return false;
+            }
+            else { return true; };
+        }
         static void Main(string[] args)
         {
-            int n, a, b, cQWE;
-            bool isFermatLastTheoremTrue = true;
+            int n, a, b, c;
 
             Console.WriteLine("Введите значение n в теореме a^n + b^n = c^n :");
             n = Convert.ToInt32(Console.ReadLine());
@@ -25,12 +33,8 @@ namespace Task7
             Console.WriteLine("Введите значение c:");
             c = Convert.ToInt32(Console.ReadLine());
 
-            if (n > 2 && Math.Pow(a, n) + Math.Pow(b, n) == Math.Pow(c, n))
-            {
-                isFermatLastTheoremTrue = false;
-            }
 
-            if (isFermatLastTheoremTrue)
+            if (q(n,a,b,c))
             {
                 Console.WriteLine($"Теорема Ферма доказана для n={n}.");
             }

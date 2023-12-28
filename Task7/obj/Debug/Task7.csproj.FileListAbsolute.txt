@@ -5,3 +5,10 @@ C:\Users\vladv\source\repos\Task7\Task7\obj\Debug\Task7.csproj.AssemblyReference
 C:\Users\vladv\source\repos\Task7\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
 C:\Users\vladv\source\repos\Task7\Task7\obj\Debug\Task7.exe
 C:\Users\vladv\source\repos\Task7\Task7\obj\Debug\Task7.pdb
+C:\Users\vladv\Documents\GitHub\Task7\Task7\bin\Debug\Task7.exe.config
+C:\Users\vladv\Documents\GitHub\Task7\Task7\bin\Debug\Task7.exe
+C:\Users\vladv\Documents\GitHub\Task7\Task7\bin\Debug\Task7.pdb
+C:\Users\vladv\Documents\GitHub\Task7\Task7\obj\Debug\Task7.csproj.AssemblyReference.cache
+C:\Users\vladv\Documents\GitHub\Task7\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\vladv\Documents\GitHub\Task7\Task7\obj\Debug\Task7.exe
+C:\Users\vladv\Documents\GitHub\Task7\Task7\obj\Debug\Task7.pdb
