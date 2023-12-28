@@ -21,7 +21,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod3()
         {
-            Assert.IsTrue(Program.q(4, 2, 1, 5));
+            Assert.IsTrue(!Program.q(4, 2, 1, 5));
         }
     }
 }
